@@ -4,7 +4,7 @@
     "author": "<a href='#'>LTH Core</a>",
     "author_profile": "",
     "version": "1.0.1",
-    "download_url": "https://github.com/LTH-Plugins/lth-core/archive/refs/tags/1.0.1.tar.gz",
+    "download_url": "https://github.com/LTH-Plugins/lth-core/archive/refs/tags/1.0.1.zip",
     "requires": "3.0",
     "tested": "5.8",
     "requires_php": "5.3",
